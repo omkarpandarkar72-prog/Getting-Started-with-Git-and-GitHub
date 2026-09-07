@@ -53,10 +53,7 @@ communicate reasons for moderation decisions when appropriate.
 
 This Code of Conduct applies within all community spaces, and also
 applies when an individual is officially representing the community
-in public spaces. Examples of representing our community include
-using an official e-mail address, posting via an official social
-media account, or acting as an appointed representative at an online
-or offline event.
+in public spaces.
 
 ## Enforcement
 
@@ -80,8 +77,7 @@ deemed unprofessional or unwelcome in the community.
 
 **Consequence**: A private, written warning from community leaders,
 providing clarity around the nature of the violation and an
-explanation of why the behavior was inappropriate. A public apology
-may be requested.
+explanation of why the behavior was inappropriate.
 
 ### 2. Warning
 
@@ -89,27 +85,19 @@ may be requested.
 of actions.
 
 **Consequence**: A warning with consequences for continued behavior.
-No interaction with the people involved for a specified period of
-time. Violating these terms may lead to a temporary or permanent ban.
 
 ### 3. Temporary Ban
 
-**Community Impact**: A serious violation of community standards,
-including sustained inappropriate behavior.
+**Community Impact**: A serious violation of community standards.
 
-**Consequence**: A temporary ban from any sort of interaction or
-public communication with the community for a specified period of
-time.
+**Consequence**: A temporary ban from any sort of interaction.
 
 ### 4. Permanent Ban
 
 **Community Impact**: Demonstrating a pattern of violation of
-community standards, including sustained inappropriate behavior,
-harassment of an individual, or aggression toward or disparagement of
-classes of individuals.
+community standards.
 
-**Consequence**: A permanent ban from any sort of public interaction
-within the community.
+**Consequence**: A permanent ban from any sort of public interaction.
 
 ## Attribution
 
@@ -117,8 +105,4 @@ This Code of Conduct is adapted from the [Contributor Covenant][homepage],
 version 2.0, available at
 https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
-Community Impact Guidelines were inspired by
-[Mozilla's code of conduct enforcement ladder][mozilla coc].
-
 [homepage]: https://www.contributor-covenant.org
-[mozilla coc]: https://github.com/mozilla/diversity
